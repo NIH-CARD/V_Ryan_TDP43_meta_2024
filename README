@@ -1,1 +1,4 @@
 # Repository for the publication *Maintenance of neuronal TDP-43 expression requires axonal lysosome transport* by Veronica Ryan et al 2024.
+
+# For publication transparency and reproducability.
+explore_and_meta_analyze_screens-Aug_2024.ipynb is the notebook that relates to meta-analyzing screens from Veronica's team with those from CRISPRBrain's API.
